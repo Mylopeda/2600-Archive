@@ -4,18 +4,16 @@
 Meetings are open to anyone of any age or level of expertise.
 
 ## Next meeting
-*TBD*  
+The new meetings are taking place in The Ground:  
+[The Ground](https://theground.se/)  
+Bredgatan 4  
+211 30 Malmö  
+[Directions](https://www.google.com/maps/dir/?api=1&destination=Bredgatan%204,%20211%2030%20Malm%C3%B6,%20Sweden)
 
-What's next? We are trying to figure this out!  
-Historically, most of our meetings took place at FooCafé:  
-- [FooCafé](https://foocafe.org/)
-- Carlsgatan 12a, Malmö, Sweden. 
+Join our socials to get the pass through the gate:
 
-Unfortunately, our venue is closing down at the end of February 2026 ([related news](https://www.goto10.se/goto-10-stanger/)), and we are looking for the new place and format at the moment.  
-If you have a suggestion about the new home for our community - please reach out in any of the socials below. 
+## Our socials
 
-## Stay in touch
-Our socials:
 - [Telegram](https://t.me/+00dNr-O0N08wOGRi) 
 - [Matrix](https://matrix.to/#/#2600malmo:matrix.org)  
 - [Discord](https://discord.gg/btCkZfECGy)
